@@ -1,0 +1,29 @@
+_repo: Exits-and-Entrances_62822
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, Eva
+    birthdate: 1870
+    deathdate: 1955
+    gutenberg_agent_id: '52146'
+    url: http://www.gutenberg.org/2009/agents/52146
+    wikipedia: https://en.wikipedia.org/wiki/Eva_Moore
+description: ''
+gutenberg_issued: '2020-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62822'
+  lccn: '24001007'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Moore, Eva, 1870-1955'
+- !lcsh 'Actors -- Correspondence'
+- !lcsh 'Esmond, H. V. (Henry V.), 1869-1922'
+- !lcsh 'Actors -- Biography'
+- GITenberg
+title: Exits and Entrances
+url: http://www.gutenberg.org/ebooks/62822
